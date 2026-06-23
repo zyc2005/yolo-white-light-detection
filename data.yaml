@@ -1,0 +1,5 @@
+train: dataset_white_light/images/train
+val: dataset_white_light/images/val
+
+nc: 1
+names: ['white_light']
